@@ -125,15 +125,6 @@ The site is deployed on **Vercel** at **[ali-husain-rizvi.vercel.app](https://al
 - **Vercel:** import the repository — no configuration required. Every push to `main` triggers a new deployment.
 - **Any static host:** run `npm run build` and serve the generated `out/` directory (works with GitHub Pages, Netlify, Cloudflare Pages, S3, etc.).
 
-## 📫 Contact
-
-**Ali Husain Rizvi** — Software Engineer
-
-- 🌐 Portfolio: [ali-husain-rizvi.vercel.app](https://ali-husain-rizvi.vercel.app/)
-- 💼 LinkedIn: [ali-husain-rizvi](https://www.linkedin.com/in/ali-husain-rizvi/)
-- 💻 GitHub: [@alirizzzv](https://github.com/alirizzzv)
-- 🧩 LeetCode: [alirizzzv](https://leetcode.com/u/alirizzzv/)
-
 ## 📄 License
 
 Released under the **MIT License**. The portfolio's personal content (text, images, resume) remains © Ali Husain Rizvi; feel free to use the code and structure as a template for your own site.
